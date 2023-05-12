@@ -4,7 +4,7 @@
 
 - 📖 Estou cursando o 5° Período de Sistemas de Informação na UFG / I'm studying now the 5th semester of Information Systems at UFG (Federal University of Goiás)
 
-- 🌱 Estou aprendendo no momento ReactJS, HTML, CSS, TypeScript, JavaScript e GIT / At the moment, i'm focused on learning new stuff that are essencial at the internship, such as React, HTML, CSS, TypeScrips, JavaScript, GIT and more.
+- 🌱 Estou aprendendo no momento ReactJS, HTML, CSS, TypeScript, JavaScript e GIT / At the moment, i'm focused on learning new stuff that are essencial at the internship, such as React, NextJS, HTML, CSS, TypeScrips, JavaScript, GIT and more.
 
 <div align="center">
   <a href="https://github.com/pvshake">
@@ -14,6 +14,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="React-PV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="NextJS-PV" height="30" width="40"  src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+  <img align="center" alt="HTML-PV" height="30" width="40" src="https://www.svgrepo.com/show/452210/git.svg" />
   <img align="center" alt="HTML-PV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="CSS-PV" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Typescript-PV" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
