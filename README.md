@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estagiando na omnisaude.co como desenvolvedor front-end / I'm currently taking an internship at omnisaude.co as a front-end developer
 
-- 📖 Estou cursando o 5° Período de Sistemas de Informação na UFG / I'm studying now the 5th semester of Information Systems at UFG (Federal University of Goiás)
+- 📖 Estou cursando o curso de Sistemas de Informação na UFG / I'm studying now the course of Information Systems at UFG (Federal University of Goiás)
 
 - 🌱 Estou aprendendo no momento ReactJS, HTML, NextJS, CSS, TypeScript, JavaScript e GIT / At the moment, i'm focused on learning new stuff that are essencial at the internship, such as React, NextJS, HTML, CSS, TypeScrips, JavaScript, GIT and more.
 
