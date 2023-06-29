@@ -1,4 +1,4 @@
-## Olá, meu nome é Pedro Vitor 👋  / Hi, my name is Pedro Vitor 👋
+##   🇺🇸 🇬🇧 Hi, my name is Pedro Vitor 👋 / 🇧🇷 Olá, meu nome é Pedro Vitor 👋
 
 - 🔭 I work as a Front-End Developer at Omnisaude.co / Trabalho como desenvolvedor Front-End na Omnisaude.co:
   
