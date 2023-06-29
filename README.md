@@ -1,10 +1,49 @@
 ## Olá, meu nome é Pedro Vitor 👋  / Hi, my name is Pedro Vitor 👋
 
-- 🔭 Atualmente estou estagiando na omnisaude.co como desenvolvedor front-end / I'm currently taking an internship at omnisaude.co as a front-end developer
+- 🔭 I work as a Front-End Developer at Omnisaude.co / Trabalho como desenvolvedor Front-End na Omnisaude.co:
+  
+🇺🇸 🇬🇧 
+As a Junior Front-End Developer at Omnisaude.co, a leading IT solutions company in the healthcare sector, I have the privilege of applying my skills to create attractive and functional user interfaces. I work collaboratively with highly skilled professionals, contributing to the development of innovative applications that enhance efficiency and user experience in the healthcare industry.
 
-- 📖 Estou cursando o curso de Sistemas de Informação na UFG / I'm studying now the course of Information Systems at UFG (Federal University of Goiás)
+🇧🇷 
+Como desenvolvedor Júnior na Omnisaude.co, uma empresa líder em soluções de TI para a área da saúde, tenho o privilégio de aplicar minhas habilidades para criar interfaces de usuário atraentes e funcionais. Trabalho em equipe com profissionais altamente qualificados, colaborando no desenvolvimento de aplicações inovadoras que melhoram a eficiência e a experiência do usuário no setor da saúde.
 
-- 🌱 Estou aprendendo no momento ReactJS, HTML, NextJS, CSS, TypeScript, JavaScript e GIT / At the moment, i'm focused on learning new stuff that are essencial at the internship, such as React, NextJS, HTML, CSS, TypeScrips, JavaScript, GIT and more.
+
+
+- 📖 College / Formação:
+
+🇺🇸 🇬🇧 
+Currently, I am studying Information Systems at the Federal University of Goiás (UFG). This degree program has provided me with a solid foundation of theoretical and practical knowledge, preparing me to tackle the challenges in the field of information technology. I am taking advantage of the learning opportunities offered by the course to delve into areas such as software development, database management, software engineering, as well as gaining an understanding of digital entrepreneurship, business rules, governance, and more.
+  
+🇧🇷 
+Atualmente, estou cursando Sistemas de Informação na Universidade Federal de Goiás (UFG). Essa graduação tem proporcionado uma base sólida de conhecimentos teóricos e práticos, preparando-me para enfrentar os desafios do campo da tecnologia da informação. Estou aproveitando as oportunidades de aprendizado oferecidas pelo curso para me aprofundar em áreas como desenvolvimento de software, gerenciamento de banco de dados, engenharia de software e noções de empreendedorismo digital, regras de negócio, governança e mais.
+
+
+
+- 🌱 Tecnical skills and technologies / Habilidades técnicas e tecnologias:
+
+🇺🇸 🇬🇧 
+In my day-to-day work, I utilize a diverse set of technologies and tools. I am proficient in ReactJS, NextJS, ReactNative, GIT, JavaScript, and TypeScript, which are the key tools driving my front-end development capabilities. Additionally, I have strong knowledge in HTML, CSS, style frameworks like AntDesign and Tailwind, and package management tools such as npm and yarn. I am constantly updating myself and exploring new technologies to enhance my skill set and provide effective solutions to the development challenges I encounter.
+
+🇧🇷 
+No meu dia a dia, utilizo um conjunto diversificado de tecnologias e ferramentas. Estou proficiente em ReactJS, NextJS, ReactNative, GIT, JavaScript e TypeScript, que são as principais ferramentas que impulsionam minha capacidade de desenvolvimento front-end. Além disso, também possuo conhecimentos sólidos em HTML, CSS, frameworks de estilo como AntDesign e Tailwind e ferramentas de gerenciamento de pacotes como npm e yarn. Estou constantemente atualizando-me e explorando novas tecnologias para melhorar meu conjunto de habilidades e fornecer soluções eficazes aos desafios de desenvolvimento que enfrento.
+
+
+- 🤝🏽 Soft skills / Habilidades pessoais (emocionais):
+
+🇺🇸 🇬🇧 
+I consider myself a person with some good soft skills, including effective communication, teamwork, and easy to work with.
+
+🇧🇷 
+Me considero uma pessoa com boas habilidades interpessoais, incluindo comunicação efetiva, trabalho em equipe e fácil de trabalhar junto.
+
+- 💡 Interests / Interesses
+
+🇺🇸 🇬🇧
+I am highly curious and have a strong interest in learning Mobile technologies and frameworks, especially those related to the Apple environment.
+
+🇧🇷
+Sou muito curioso e tenho grande interesse em aprender tecnologias e frameworks Mobile, especialmente aqueles relacionados ao ambiente Apple.
 
 
 ##
