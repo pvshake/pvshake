@@ -1,9 +1,9 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Pedro Fajardo!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-🚀 Front-End Developer and my goal is to deliver scalable, impactful solutions, especially in the health, AI, and immersive technologies industries.
-👩🏻‍🎓 Studied Information Systems at the Federal University of Goiás, Brazil<br/>
+# 👋 Hi, I'm Pedro Fajardo!<br>
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
+🚀 Front-End Developer and my goal is to deliver scalable, impactful solutions, especially in the health, AI, and immersive technologies industries.<br>
+👩🏻‍🎓 Studied Information Systems at the Federal University of Goiás, Brazil.<br/>
 💭 I'm passionate about building responsive, high-performance web and mobile applications. I specialize in Next.js, React.js, React Native, TypeScript, JavaScript, and Tailwind CSS, with a strong focus on UI/UX design, SSR, and REST API integration.<br/>
 
 <br>
@@ -30,5 +30,6 @@ If you enjoyed any of my projects or found them helpful, please consider giving 
 ### 🖥️ **Wakatime Stats**
 
 [![wakatime](https://wakatime.com/badge/user/6dcab2c7-684b-409a-a0f3-09ac48569e8f.svg)](https://wakatime.com/@6dcab2c7-684b-409a-a0f3-09ac48569e8f)<br>
+![Snake animation](https://github.com/pvshake/pvshake/blob/output/github-contribution-grid-snake.svg)
 
 <br>
