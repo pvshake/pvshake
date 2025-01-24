@@ -1,9 +1,9 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Pedro Fajardo!<br>
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
-🚀 Front-End Developer and my goal is to deliver scalable, impactful solutions, especially in the health, AI, and immersive technologies industries.<br>
-👩🏻‍🎓 Studied Information Systems at the Federal University of Goiás, Brazil.<br/>
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br><br>
+🚀 Front-End Developer and my goal is to deliver scalable, impactful solutions, especially in the health, AI, and immersive technologies industries.<br><br>
+👩🏻‍🎓 Studied Information Systems at the Federal University of Goiás, Brazil.<br/><br>
 💭 I'm passionate about building responsive, high-performance web and mobile applications. I specialize in Next.js, React.js, React Native, TypeScript, JavaScript, and Tailwind CSS, with a strong focus on UI/UX design, SSR, and REST API integration.<br/>
 
 <br>
@@ -27,9 +27,10 @@ If you enjoyed any of my projects or found them helpful, please consider giving 
 
 <br>
   
-### 🖥️ **Wakatime Stats**
+### 🖥️ **Github and Wakatime Stats**
 
 [![wakatime](https://wakatime.com/badge/user/6dcab2c7-684b-409a-a0f3-09ac48569e8f.svg)](https://wakatime.com/@6dcab2c7-684b-409a-a0f3-09ac48569e8f)<br>
-![Snake animation](https://github.com/pvshake/pvshake/blob/output/github-contribution-grid-snake.svg)
+![WakaTime Stats](https://wakatime.com/share/@pvshake/9ab76bc9-e664-4af1-87de-fc59d6177f92.svg)<br>
+![snake gif](https://github.com/pvshake/pvshake/blob/output/github-snake-dark.svg)
 
 <br>
